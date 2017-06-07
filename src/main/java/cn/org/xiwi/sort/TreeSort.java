@@ -64,6 +64,7 @@ public class TreeSort {
 		storeSorted(root, arr, i);
 	}
 
+	//TODO 还未写完，有bug
 	public static void main(String[] args) {
 		// create input array
 		int arr[] = { 5, 4, 7, 2, 11 };
